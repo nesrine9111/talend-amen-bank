@@ -1,0 +1,9 @@
+# Fichiers a ignorer pour Talend 
+.metadata/ 
+.JETEmitters/ 
+.Java/ 
+/bin/ 
+/target/ 
+*.tmp 
+*.log 
+*.bak 
