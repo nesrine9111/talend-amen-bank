@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_zoOm4BL0EfCq6vhB5MBCfQ" name="mySQL_connection" id="_iXgtABL0EfCq6vhB5MBCfQ" label="mySQL_connection" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://localhost:3306/`base_banque`?noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" dbVersionString="MYSQL_8" Port="3306" Username="" Password="enc:system.encryption.key.v1:rQz8W+zuxciw1KomIdxYGsx2dQdKWDfHTjCdBnrFDgRw3T8=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="`base_banque`" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" StandardSQL="true" SQLMode="false" UiSchema="">
+  <taggedValue xmi:id="_zoOm4RL0EfCq6vhB5MBCfQ" tag="Is Conn Need Reload" value="false"/>
+  <taggedValue xmi:id="_zodQYBL0EfCq6vhB5MBCfQ" tag="package filter" value=""/>
+  <taggedValue xmi:id="_zonBYBL0EfCq6vhB5MBCfQ" tag="Status" value=""/>
+  <taggedValue xmi:id="_zonBYRL0EfCq6vhB5MBCfQ" tag="Version" value="0.1"/>
+  <taggedValue xmi:id="_zonBYhL0EfCq6vhB5MBCfQ" tag="Purpose" value=""/>
+  <taggedValue xmi:id="_zonBYxL0EfCq6vhB5MBCfQ" tag="Description" value=""/>
+  <taggedValue xmi:id="_zonBZBL0EfCq6vhB5MBCfQ" tag="Author" value=""/>
+  <taggedValue xmi:id="_zonBZRL0EfCq6vhB5MBCfQ" tag="otherParameter"/>
+  <parameters xmi:id="_zoOm4hL0EfCq6vhB5MBCfQ" key="CONN_PARA_KEY_USERNAME" value=""/>
+</TalendMetadata:DatabaseConnection>
